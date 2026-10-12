@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "product": "cubifab-studio",
+  "version": "1.2.0",
+  "tag": "v1.2.0",
+  "releaseUrl": "https://github.com/wistal-lingju/CubiFabStudio/releases/tag/v1.2.0",
+  "platforms": {
+    "win32-x64": {
+      "installerType": "nsis",
+      "file": "CubiFab-Studio-win-x64-Setup.exe",
+      "url": "https://github.com/wistal-lingju/CubiFabStudio/releases/download/v1.2.0/CubiFab-Studio-win-x64-Setup.exe",
+      "sizeBytes": 124911149,
+      "sha256": "5381abe76dbd718490e48b280055fafdd25d35639535ad1e3420947c130682da",
+      "sha512": "M1EHaB5KPPTJjC2oGClZ+gCWpARQ2qPil9C95ER3AFiljjL9bN7NC+2Y6830B+VYA22d9fjvkAwj15D5Ejy9ow=="
+    }
+  }
+}
